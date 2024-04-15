@@ -1,10 +1,18 @@
-# CNS2024
+# CNS2024 :)
+
+Practicing with Git!!
+
 Practicing with Git!
 
- Brad's edits
+Brad's edits
 
 Sourcetree playing around
 
-Rob's edits
+=======
+# Is there a way to quickly access the repo clone on my online website?
 
+testing github for the first time
 
+Is this working now?  CJ is awesome
+
+PR
