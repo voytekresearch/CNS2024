@@ -1,5 +1,5 @@
 # CNS2024
-Practicing with Git!
+Practicing with Git!!
 
 
 Is this working now?  CJ is awesome
