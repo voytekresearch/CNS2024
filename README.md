@@ -1,7 +1,5 @@
 # CNS2024
 Practicing with Git!
 
-Brad's edits
 
-Sourcetree playing around
-hello
+Is this working now?  CJ is awesome
