@@ -8,7 +8,7 @@ testing github for the first time
 
 Is this working now?  CJ is awesome
 
-i want to be awesome too!
+cheers to learning GitHub
 
-PR
+i want to be awesome too!
 
